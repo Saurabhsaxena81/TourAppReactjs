@@ -18,7 +18,7 @@ A simple and interactive **Tour App** built using **React.js** and the `useState
 ## 🚀 Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tour-app.git
+   git clone https://github.com/Saurabhsaxena81/TourAppReactjs.git
    ```
 2. **Navigate to the project folder:**
    ```bash
